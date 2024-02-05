@@ -10,7 +10,7 @@
     "dev": "nodemon app.js",
     "start": "node app.js"
   },
-  "author": "Anuradha Fernando",
+  "author": "hasitha",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
